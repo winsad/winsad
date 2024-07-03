@@ -14,6 +14,8 @@
 </div>
 
 ###
+<!-- Language Uses --->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winsad&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winsad&count_private=true&layout=donut&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)--> 
