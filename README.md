@@ -10,7 +10,7 @@
 
 ###
 <div align="center">
-  <img height="40" src="https://profile-counter.glitch.me/OukSaksith/count.svg"  />
+  <img height="40" src="https://profile-counter.glitch.me/winsad/count.svg"  />
 </div>
 
 ###
